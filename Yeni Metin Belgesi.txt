@@ -1,0 +1,29 @@
+yakit türü
+BENZİN
+DİZEL
+LPG
+ELEKTRİK
+DİĞER
+
+vites
+MANUEL VİTES
+OTOMATİK VİTES
+TRİPTONİK VİTES
+YARI OTOMATİK VİTES
+DİĞER
+
+Durumu
+SIFIR ARAÇ
+İKİNCİ EL ARAÇ
+
+Kasa Tipi
+HATCHBACK
+SEDAN
+STATİON WAGON
+MİNİVAN
+SUV
+PİCK UP
+DİĞER
+
+not
+KM varchar çevirsen iyi olur sıkıntı çıkıyor
